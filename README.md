@@ -108,11 +108,3 @@ The output includes:
 - Complete submission checklist  
 
 ---
-
-
-
-## References
-
-- Radford, A. et al. (2019). *Language Models are Unsupervised Multitask Learners*.  
-- HuggingFace Transformers: https://huggingface.co/transformers/  
-- BERTScore: https://github.com/Tiiiger/bert_score  
