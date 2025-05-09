@@ -1,0 +1,39 @@
+Prompt Type,Output #,BERTScore F1,Generated Text
+Direct instruction,1,0.8532150983810425,"Write a motivational quote about overcoming fear.
+
+For a list of some of the most common, effective, and effective ways to motivate people, see The Power of Positive Thinking."
+Direct instruction,2,0.8422151207923889,"Write a motivational quote about overcoming fear.
+
+The following quote is from a book called The Mind of Fear:
+…in the book, I give one example of a woman who became a better person by working hard and by loving people. She"
+Direct instruction,3,0.8448465466499329,"Write a motivational quote about overcoming fear.
+
+A motivational phrase that is a bit more specific than ""I'm afraid of what I can't do, but I have to do it"". It's about giving a positive message to a crowd. It"
+Scenario-based,1,0.8400760889053345,"Imagine you're helping a friend who failed a test. Write something encouraging.
+
+Don't be afraid to make a difference. Don't say, ""I can't do it for you. I can do this for everyone else.""
+. If"
+Scenario-based,2,0.8329740762710571,"Imagine you're helping a friend who failed a test. Write something encouraging.
+
+I know this may sound like a little hard work, but it's actually a very simple thing. It's not that you should be able to do it all at"
+Scenario-based,3,0.8362146615982056,"Imagine you're helping a friend who failed a test. Write something encouraging. Ask the question ""What's your motivation?"" Answer the following questions to help you get started.
+
+How much time do you spend on the test?
+. What are"
+Persona-based,1,0.8575165867805481,"As a wise monk, write a quote about inner strength. If you have your heart set on fighting, then you can be confident that if you take the fight to your opponent, you will be able to beat them hard.
+
+If you are"
+Persona-based,2,0.8413718938827515,"As a wise monk, write a quote about inner strength. It doesn't matter if you're just a monk or a priest, you can't write about the inner power of the mind or your own inner spirit. You can write your thoughts and thoughts"
+Persona-based,3,0.8593631982803345,"As a wise monk, write a quote about inner strength. The truth is that the only way to be a good monk is to practice inner power. This is the same as the way you practise inner meditation, or by focusing on your inner awareness."
+Keyword-based,1,0.8370281457901001,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.
+
+And that's exactly what happened. It was an amazing, amazing day. The work ethic and the determination and determination that was put into it –"
+Keyword-based,2,0.8447842001914978,"Using the words 'growth', 'struggle', and 'hope', write something inspiring. Then, when you've read something, you can start to think about your goals, thoughts, and actions. It takes practice to find your way to the"
+Keyword-based,3,0.8359931707382202,"Using the words 'growth', 'struggle', and 'hope', write something inspiring.
+
+Then you can write about what you have achieved, and how you think about it. Or maybe you just want to make it a little easier for"
+Conversational,1,0.85251384973526,"User: I feel like giving up. GPT-2: Here's a quote for you: ""In the future, the best way to give up is to learn to not give and not to be afraid.""
+
+JH: So you"
+Conversational,2,0.8276355266571045,"User: I feel like giving up. GPT-2: Here's a quote for you: ""I can't be as bad as you are... but I'm not going to be able to do something like that. It's going be like"
+Conversational,3,0.8372142910957336,"User: I feel like giving up. GPT-2: Here's a quote for you: ""When you're in a relationship, don't be afraid to put your emotions aside and let the things that are going on in your life come into"
