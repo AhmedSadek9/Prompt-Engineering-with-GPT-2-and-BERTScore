@@ -109,22 +109,7 @@ The output includes:
 
 ---
 
-## Customization
 
-You can experiment with the following parameters:
-
-- `temperature` (controls randomness of outputs)  
-- `top_k` and `top_p` (affect output diversity)  
-- Prompt structure and wording  
-- Human reference texts for evaluation  
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## References
 
