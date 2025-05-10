@@ -1,0 +1,27 @@
+Prompt Type,Output #,Generated Text,BERTScore F1
+Direct,1,"A quote that is your best strategy for achieving success.
+
+It may sound like a good idea to read this: https://en.wikipedia.org/wiki/A_poster_of_h",0.8197630643844604
+Direct,2,"Get a motivational quote from a friend or a friend that doesn't make you feel afraid. Use your ""good news"" when you need to hear about something positive. Or, better yet, say """,0.8423104882240295
+Direct,3,"The more afraid you are of someone being afraid, the more likely they are to act on it. If you hear someone tell you ""you can do this and do that,"" ask them if they like the idea",0.8453073501586914
+Scenario,1,"Ask for help.
+
+You may even be using these to get a feel of a friend's thoughts, and when someone has heard of this process and it's",0.8360291719436646
+Scenario,2,"Write ""I have the perfect solution for you, with lots of work so I can concentrate. Please try again later"". I know it was difficult to have a single",0.835903525352478
+Scenario,3,’You are not going to make me a better person. Be honest with me’and tell me what happened. I want to know what went,0.8401520848274231
+Persona,1,It will be called wisdom by those who are aware of it. The wise are conscious when they write a piece of wisdom and then begin chanting in their heart. You do this only to remind,0.8399882912635803
+Persona,2,"The whole ""strong body will not allow the sword to break through your heart"" thing is a lie, because if you're a self-righteous guy, you really feel your right to say",0.8355693221092224
+Persona,3,"You would be amazed. There are few things more damaging to your spiritual and physical health, as well as your spiritual and physical well being, than the fact that you are a child of God",0.839447557926178
+Keyword,1,You might call it a 'new hope' in a world where people are struggling with the fact that they are not doing everything they can to live up to,0.8406819701194763
+Keyword,2,"If not, make something memorable.
+
+A good way to get back to reality is to build something new.
+
+Building a world around",0.8447747826576233
+Keyword,3,"It's a good thing you get used to it when the words are put into your head, like 'growth', 'struggle', and 'hope",0.8385931253433228
+Conversational,1,"What I want to do is be able to do anything that I want to do right now. That means you can do any thing you want, but we're in a really good",0.8342686295509338
+Conversational,2,"I'm gonna ask your friends to be careful.
+GPT-3: Oh, that'd be nice.
+GPT-4: Let me give some advice for your",0.8267762660980225
+Conversational,3,"What's the most dangerous stuff that you'll be doing in the future?
+GPT-2: The worst thing about playing Starcraft? What do you want to do in the",0.8293417692184448
